@@ -1,12 +1,14 @@
 # 🎓 Student Grade Predictor
 
+🌐 **Deployed App**: [https://student-predictor.streamlit.app/](https://student-predictor.streamlit.app/)
+
 ## 📌 Problem Statement
 
 Many students struggle with academic performance due to lifestyle factors like poor time management, inadequate sleep, or high stress levels. Educators, parents, and even students themselves often lack data-driven tools to understand how these factors affect academic outcomes.
 
-## 💡 Our Solution
+## 💡 My Solution
 
-We’ve built a machine learning-powered **Student Grade Predictor** that analyzes lifestyle habits — specifically **study hours**, **sleep hours**, and **stress levels** — to forecast a student's expected grade. This empowers stakeholders with actionable insights to drive academic success.
+I’ve built a machine learning-powered **Student Grade Predictor** that analyzes lifestyle habits — specifically **study hours**, **sleep hours**, and **stress levels** — to forecast a student's expected grade. This empowers stakeholders with actionable insights to drive academic success.
 
 ## 🚀 The Product
 
@@ -33,12 +35,14 @@ By enabling early prediction and intervention, this solution:
 - Helps close performance gaps across socioeconomic backgrounds
 - Supports data-driven parental engagement in academics
 
-## 🤝 Our Ask
+## 🤝 My Ask
 
-With additional funding, we aim to:
-- Expand our dataset with real-world academic records across diverse schools
-- Integrate features such as personalized study plans and alerts
-- Develop a mobile-first version for wider accessibility
-- Collaborate with schools for pilot implementation and feedback
+I recommend that any user who would like customizations, performance feedback, or feature extensions reach out to me directly via the contact options provided on my [GitHub profile](https://github.com/ntaboisoe/).
 
-Let’s empower students with the data they need to succeed!
+With additional support or funding, I aim to:
+- Expand the dataset using real-world academic records from diverse schools
+- Integrate personalized study recommendations, alerts, and gamified nudges
+- Build a mobile-first version for improved accessibility
+- Partner with educational institutions for real-world testing and deployment
+
+Let’s empower every student with the data they need to thrive!
